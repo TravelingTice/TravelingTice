@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TravelingTice
+- 👀 I’m interested in travel
+- 🌱 I’m currently learning Preact, Typescript, GraphQL
+- 💞️ I’m looking to collaborate on many things
+- 📫 How to reach me ...
