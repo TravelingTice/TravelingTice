@@ -1,9 +1,6 @@
 On the "Indie Hacker" journey ⛰️ (currently deep in the fog 🌁)
 
-Checkout my [website](https://ticekralt.com).
-
-#### Apps and projects that made good money and grew:
-- 
+Check out my [website](https://ticekralt.com).
 
 #### Creator of:
 - [Map My Travels](https://mapmytravels.app)
