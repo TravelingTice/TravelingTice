@@ -1,17 +1,20 @@
-On the "Indie Hacker" journey ⛰️ (currently deep in the fog 🌁)
+On the "Indie Hacker" journey ⛰️ 
 
-Check out my portfolio website ➡️ [https://ticekralt.com](https://ticekralt.com)
+Check out my personal website ➡️ [https://ticekralt.com](https://ticekralt.com)
 
-#### Working on:
+#### My projects:
 
+- [PSL rating](https://pslrating.vercel.app/)
+- [Reach Out Right](https://reachoutright.com)
+- [Slop Goggles](https://slopgoggles.ticekralt.com/)
+- [Mascotly AI](https://mascotlyai.com)
+- [LiveInterp](https://liveinterp.com)
+- [Amsterdam Surfers](https://adamsurfers.ticekralt.com/)
 - [Map My Travels](https://mapmytravels.app)
-- [PDQE (product database quote engine)](https://pdqe.net/)
-
-Also working for the awesome company [WebinarGeek](https://webinargeek.com) in the Netherlands.
-
-#### Projects I used to work on but fell by the wayside (failed):
-
+- [PDQE (Product Database Quote Engine)](https://pdqe.net/)
 - [Graduation Photoshoot Now](https://graduationphotoshootnow.com)
 - [Do It Or Else](https://accountability-tool.vercel.app/)
 - [Time Tracker App](https://time-tracker-app-tice.netlify.app/)
 - [Personal Wallet App](https://personalwallet.app)
+
+Also working for the awesome company [WebinarGeek](https://webinargeek.com) in the Netherlands.
